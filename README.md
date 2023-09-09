@@ -12,7 +12,7 @@ To work on these exercises, you'll need:
 ## Structure
 
 Each exercise resides in its own directory, providing a brief description of the task and, when completed, its solution. 
-The table of contents is [Table of contents](link-will-go-here)
+The table of contents is [Table of contents](https://github.com/javarmgar/kotlin_repository/blob/main/table_of_contents.md)
 
 ## Exercises
 
