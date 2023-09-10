@@ -18,10 +18,10 @@ The table of contents is [Table of contents](https://github.com/javarmgar/kotlin
 
 1. **Exercise Name** - Brief description of what the exercise focuses on.
    - [Task](link-to-task-readme)
-   - [Solution](link-to-solution-code)
+   - [exercises.`01_Basics`.`02_Data_Types`.exercise_03_type_conversions.Solution](link-to-solution-code)
 2. **Another Exercise Name** - Brief description.
    - [Task](link-to-task-readme)
-   - [Solution](link-to-solution-code)
+   - [exercises.`01_Basics`.`02_Data_Types`.exercise_03_type_conversions.Solution](link-to-solution-code)
 
 ... (and so on)
 
